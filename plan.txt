@@ -1,0 +1,4 @@
+- Clean the data (handle missing values, duplicates).
+- Calculate metrics: total sales, profit margin, sales by region.
+- Generate a CSV report (sales_report.csv).
+- Automate with GitHub Actions on push.
