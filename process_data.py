@@ -1,4 +1,4 @@
-    import pandas as pd
+import pandas as pd
 
 # Load dataset
 df = pd.read_csv('data/superstore_dataset.csv')
