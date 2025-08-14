@@ -22,3 +22,5 @@ report = pd.DataFrame({
 report.to_csv('reports/sales_report.csv', index=False)
 
 print(f"Generated report: Total Sales = {total_sales}, Profit Margin = {profit_margin}%, Sales by Region = {sales_by_region}")
+
+# test run line to drive my code to run again
