@@ -19,7 +19,7 @@ jobs:
       - name: Run pipeline
         run: python process_data.py
       - name: Upload report
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: sales-report
           path: reports/sales_report.csv
